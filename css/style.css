@@ -1,0 +1,6 @@
+body {color: #232232; font-size: 1.3em;}
+
+h1.hero { color: orangered;}
+
+ul.nav {list-style: none;  width: 100vw; }
+li {float: left; width: 25vw;}
